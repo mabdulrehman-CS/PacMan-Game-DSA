@@ -1,4 +1,4 @@
-# 🎮 AlgoMan: DSA-Driven Pac-Man (Console Edition)
+# 🎮 AlgoMan: DSA-Driven Pac-Man
 
 A high-performance, professional Pac-Man implementation in C++ that demonstrates core Data Structures and Algorithms in a terminal environment. Built for the terminal but designed like a modern game.
 
